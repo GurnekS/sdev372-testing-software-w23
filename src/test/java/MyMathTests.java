@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 public class MyMathTests
 {
     @Test
-    public void exceptionsTests()
+    public void testsExceptions()
     {
         MyMath calculator = new MyMath();
         assertThrows(ArithmeticException.class, () -> calculator.divide(219, 0));

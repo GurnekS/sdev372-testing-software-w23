@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertNull;
 public class PersonTest
 {
     @Test
-    public void constructorTest()
+    public void testConstructort()
     {
         Person testMe = new Person("Joe", "Smith");
 
