@@ -1,7 +1,8 @@
+import org.example.src.people.Person;
 import org.junit.jupiter.api.Test;
-import people.Person;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertAll;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 public class PersonTest
 {

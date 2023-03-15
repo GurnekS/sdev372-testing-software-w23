@@ -1,5 +1,5 @@
+import org.example.src.random.PowerBall;
 import org.junit.jupiter.api.RepeatedTest;
-import random.PowerBall;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

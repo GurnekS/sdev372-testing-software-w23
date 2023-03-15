@@ -1,4 +1,4 @@
-import math.MyMath;
+import org.example.src.math.MyMath;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
